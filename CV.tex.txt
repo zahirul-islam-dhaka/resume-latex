@@ -1,0 +1,341 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[a4paper,margin=0.5in]{geometry}
+\usepackage{multicol}
+\usepackage{parskip}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+% Title format
+\titleformat{\section}{\Large\bfseries}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+% Name and Contact Info in two columns
+\begin{center}
+    {\Huge \textbf{Md. Zahirul Islam}} \\[0.5em]
+\end{center}
+
+\begin{multicols}{2}
+\noindent
+\textbf{Address:} \\
+House 6, Road 35, Block Ta \\
+Mirpur-6, Dhaka-1216, Bangladesh \\
+Phone: +8801711792629 \\
+
+
+\columnbreak
+
+\noindent
+\href{mailto:zahirul.islam.spa@gmail.com}{zahirul.islam.spa@gmail.com} \\
+\href{https://www.linkedin.com/in/zahirul-islam-dhaka}{linkedin.com/in/zahirul-islam-dhaka} \\
+\href{https://github.com/zahirul-islam-dhaka}{github.com/zahirul-islam-dhaka} \\
+\href{https://sites.google.com/view/zahirul97}{sites.google.com/view/zahirul97} \\
+\end{multicols}
+
+\hrule
+
+
+\section*{1. Professional Summary}
+\begin{itemize}[noitemsep]
+    \item With over 12 years of extensive experience, successfully managed more than 100 projects, demonstrating proficiency in baseline, midline, and end-line assessments, impact evaluations, randomized controlled trials (RCT), and project management. Expertise spans various stages of project implementation, including data collection, management, and analysis, as well as monitoring, supervision, and evaluation. Collaborated with national and international partners, including government agencies, non-governmental organizations, and universities, to deliver impactful outcomes.
+    \item A comprehensive understanding of research design and methodologies enables to design of effective questionnaires, conducts field staff training, and ensures rigorous data quality control and assessment. Possess advanced skills in statistical analysis and report preparation, with a proven track record of delivering insightful findings to stakeholders. Moreover, have extensive experience in developing and implementing monitoring and evaluation (M&E) systems, creating online data collection forms, and generating insightful dashboards.
+    \item In addition to project management and research expertise, has vast knowledge in the field of Data Science and is proficient in various software and platforms, including Microsoft Office Suite, PowerBI, Google Studio, Tableau, SPSS, Stata, R, Python (basic), CsPro, Microsoft Access, ArcGIS, Q-GIS, Google Earth, SurveyCTO, ODK, KoBo, Survey Monkey, Zoho Survey, as well as video editing, web design and development tools such as Macromedia Dreamweaver, WordPress, Joomla, HTML5, CSS3, and graphics design software like Photoshop, Illustrator, Canva, Figma, InDesign, and Quark Express.
+\end{itemize}
+
+\section*{2. Employment Record}
+
+\textbf{Senior Project Associate (Jan 2023 -- Present)} \\ \textit{ARCED Foundation}
+\begin{itemize}[noitemsep]
+    \item Designed and implemented research studies for World Bank, Oxfam, IFRC, UC San Diego, Georgetown University.
+    \item Led data-driven projects, advanced analysis with Stata, SPSS, Python.
+    \item Managed projects end-to-end aligning with objectives, budgets, timelines.
+    \item Developed M\&E frameworks and dashboards (Power BI, Tableau, Google Studio).
+    \item Trained research teams and maintained data integrity.
+    \item Engaged stakeholders including NGOs, donors, government, academia.
+\end{itemize}
+
+\textbf{Project Associate (Jan 2020 -- Dec 2022)} \\
+\textit{ARCED Foundation}
+\begin{itemize}[noitemsep]
+    \item Supported surveys, impact evaluations for Dalberg, Swisscontact, Georgetown University, UC San Diego.
+    \item Managed field data collection, statistical analysis using Stata, SPSS.
+    \item Ensured timely, quality project execution.
+    \item Built M\&E frameworks, dashboards.
+    \item Trained field teams ensuring data ethics.
+    \item Aligned project goals with client needs.
+\end{itemize}
+
+\textbf{Project Assistant (May 2017 -- Dec 2020)} \\
+\textit{ARCED Foundation}
+\begin{itemize}[noitemsep]
+    \item Designed/executed qualitative, quantitative studies for Oxfam, Plan Intl., University of Warwick.
+    \item Led field data collection, cleaning, analysis (Stata, SPSS).
+    \item Managed multi-district research operations.
+    \item Developed data quality processes and real-time reporting.
+    \item Trained enumerators, ensured ethical compliance.
+    \item Coordinated with NGOs, academia, local authorities.
+\end{itemize}
+
+\textbf{Junior Project Assistant (May 2013 -- Apr 2017)} \\
+\textit{ARCED Foundation}
+\begin{itemize}[noitemsep]
+    \item Assisted baseline surveys and tools for Oxfam, Plan Intl., ADB.
+    \item Supported field data collection (surveys, KIIs, FGDs).
+    \item Coordinated research logistics and schedules.
+    \item Helped monitor project progress, data checks.
+    \item Supported field staff training.
+    \item Engaged communities and partners.
+\end{itemize}
+
+\textbf{Senior Research Officer (Aug 2008 -- Apr 2013)} \\
+\textit{Chowdhury Group}
+\begin{itemize}[noitemsep]
+    \item Led R\&D studies for product development, operational efficiency.
+    \item Managed data-driven R\&D projects (SPSS, Python, Excel).
+    \item Oversaw projects across garments, logistics, agro sectors.
+    \item Designed M\&E frameworks, dashboards (Tableau, Power BI).
+    \item Mentored researchers, ensured QA.
+    \item Partnered with buyers in USA, Europe.
+\end{itemize}
+\section*{3. Major Projects}
+
+\small  % Smaller font
+\begin{multicols}{2}  % Two-column layout
+\begin{itemize}[leftmargin=0.3cm, label={--}]
+    \item \textbf{Leveraging Technology to Reduce Public Health Harm of Brick Kilns in Bangladesh} \\
+    Client: National University of Singapore
+
+    \item \textbf{Impact Assessment Plan for the Char Development and Settlement Project IV (CDSP IV)} \\
+    Client: IFPRI and IFAD
+
+    \item \textbf{Incentivized Survey on EZ Bike Battery Market Preferences} \\
+    Client: Stanford University and ADB
+
+    \item \textbf{Air Pollution and Worker Productivity} \\
+    Client: University of California, San Diego and University of Colorado Denver
+
+    \item \textbf{Household Air Filter Project} \\
+    Client: University of California, San Diego
+
+    \item \textbf{Skills in the Enterprises Contribute to Growth in Bangladesh} \\
+    Client: University of Minnesota, UC San Diego, Federal Reserve Bank of Richmond
+
+    \item \textbf{Endline Study for Bangladesh Garments Whistleblowing Escrow} \\
+    Client: Columbia Business School, Princeton University, Ben Gurion University
+
+    \item \textbf{Impact Evaluation of an Intervention for Old Age Allowance (OAA) Targeting} \\
+    Client: University of Bremen, Germany
+
+    \item \textbf{Trade-offs between Price, Information, and Reputation in Circular Economy: E-3W Battery Market in Bangladesh} \\
+    Client: Georgetown University and Stanford University
+
+    \item \textbf{Does Trade with Multinationals Induce Greener Production? Evidence from Bangladesh Fashion Industry} \\
+    Client: International Growth Centre and Murata Science Foundation
+
+    \item \textbf{Impact Evaluation: FM Radio Stations at Mymensingh \& Gopalganj} \\
+    Client: IMED
+
+    \item \textbf{Shaping Student Mindsets for Climate Action} \\
+    Client: The World Bank
+
+    \item \textbf{Father Engagement Model in Home Visiting Humanitarian Play Lab (HPL)} \\
+    Client: New York University, The Lego Foundation
+
+    \item \textbf{Updating the Revised Strategic Traffic Plan (URSTP) for Dhaka} \\
+    Client: ADB, DTCA
+
+    \item \textbf{REACH TO TEACH – Virtual Teacher Training Intervention} \\
+    Client: The World Bank
+
+    \item \textbf{Baseline Study of Healthcare Waste Management (HCWM)} \\
+    Client: UNDP
+
+    \item \textbf{Preparatory Data Collection: Impact Evaluation of Teacher Formative Assessment Skills} \\
+    Client: The World Bank
+
+    \item \textbf{Lab in the Field for Temperature and Team Productivity} \\
+    Client: University of Colorado \& UC San Diego
+
+    \item \textbf{Baseline Study of USAID's Promoting Education for Early Learners} \\
+    Client: Sesame Workshop Bangladesh
+
+    \item \textbf{Assessment of Learning Loss Due to COVID-19 Among School Children} \\
+    Client: The World Bank
+
+    \item \textbf{Student Phone Survey on COVID Responses} \\
+    Client: The World Bank
+
+    \item \textbf{Teacher Phone Survey on COVID Responses} \\
+    Client: The World Bank
+
+    \item \textbf{Data Management for COVID-19 Price Tracing} \\
+    Client: GAIN
+
+    \item \textbf{Digitization and Demographic Characteristics of Internet Users in Bangladesh} \\
+    Client: University of York
+
+    \item \textbf{RCT on Remote Learning in Bangladesh During COVID-19} \\
+    Client: The World Bank
+
+    \item \textbf{Program Evaluation: MTaPS COVID-19 Response in Bangladesh} \\
+    Client: USAID, MTaPS
+
+    \item \textbf{Formative Research on SW's Video (AV) Blocks} \\
+    Client: Sesame Workshop, Bangladesh
+
+    \item \textbf{TST Pre-Screening Phone Survey with Secondary Teachers} \\
+    Client: The World Bank
+
+    \item \textbf{Data Collection on Secondary Teachers} \\
+    Client: The World Bank
+
+    \item \textbf{Back-check Survey of Potato Farmers in Bangladesh} \\
+    Client: Yale University
+
+    \item \textbf{Building Local Government Capacity for Old Age Allowance Selection} \\
+    Client: Konstanz University
+
+    \item \textbf{Pilot Survey of Rice Farmers in Bangladesh} \\
+    Client: Ludwig-Maximilians-Universität München
+
+    \item \textbf{B-SkillFUL Tracer Study 2019} \\
+    Client: Swisscontact
+
+    \item \textbf{Survey of Bidders for Impact Evaluation of E-Government Procurement (eGP)} \\
+    Client: The World Bank
+
+    \item \textbf{Monitoring Study on Upazila Complex Expansion (2nd Edition)} \\
+    Client: IMED
+
+    \item \textbf{Tracer Study of B-SEP-supported TVET Graduates and Apprentices} \\
+    Client: ILO, Bangladesh
+
+    \item \textbf{Impact Study of Interactive Digital Content in Government Primary Schools} \\
+    Client: Save the Children
+
+    \item \textbf{End-line Evaluation of ISD Climb UP Project (Climate Vulnerable Communities)} \\
+    Client: Islamic Relief Worldwide, Bangladesh
+
+    \item \textbf{Baseline Study of Empowering Women and Building Sustainable Livelihoods} \\
+    Client: Oxfam
+
+    \item \textbf{Baseline Study of Coastal DRR Project} \\
+    Client: BDRCS
+
+    \item \textbf{Nutritional Assessment of Making Market Work for Women (MMWW) Project} \\
+    Client: ActionAid Bangladesh
+
+    \item \textbf{Baseline Study of Digital RMG Factory Mapping (DRFM-B)} \\
+    Client: CED, BRAC University
+
+    \item \textbf{Global Supply Chains in Garments Sector} \\
+    Client: ILO, Switzerland
+
+    \item \textbf{Productivity and Intrinsic Motivation: Ranking Feedback Study} \\
+    Client: University of Warwick
+
+    \item \textbf{Impact of Schooling on Underprivileged Children} \\
+    Client: NUS
+
+    \item \textbf{Quantifying Mobility and Economic Activity in Dhaka} \\
+    Client: MIT
+
+    \item \textbf{Role of Business in Sustained Improvements of Nutritional Status} \\
+    Client: University of Guelph \& University of Sussex
+
+    \item \textbf{Impact of Manager Characteristics in Bureaucracies} \\
+    Client: BIGD and UCL
+
+    \item \textbf{Feasibility Study of Modernizing Agriculture Information Services} \\
+    Client: Ministry of Agriculture, Bangladesh
+
+    \item \textbf{Access to Nutritious Foods – Grameen Danone Case Analysis} \\
+    Client: University of Guelph \& University of Sussex
+
+    \item \textbf{Data Collection, Entry, and Situation Analysis of Waste Management in Bangladesh’s Health Facilities} \\
+    Client: USAID, MTaPS (The Medicines, Technologies, and Pharmaceutical Services) Program
+
+    \item \textbf{Capacity-Building Training Program on Power BI for NRC Bangladesh} \\
+    Client: Norwegian Refugee Council (NRC) Bangladesh
+
+    \item \textbf{Baseline Study of Strengthening Community Preparedness, Rapid Response, and Recovery in Bangladesh} \\
+    Client: Oxfam in Bangladesh
+
+    \item \textbf{Impact Evaluation: Establishment of Two Self-Contained 10-Kilowatt FM Radio Stations at Mymensingh and Gopalganj} \\
+    Client: Implementation Monitoring and Evaluation Division (IMED)
+
+    \item \textbf{Baseline study of Pilot Programmatic Partnership (PPP)} \\
+    Client: German Red Cross
+
+    \item \textbf{Baseline Study of USAID's Promoting Education for Early Learners Activities} \\
+    Client: Sesame Workshop Bangladesh
+
+    \item \textbf{Assessment of Lessons and Future Direction on Industry-Led Apprenticeship} \\
+    Client: Swisscontact
+\end{itemize}
+\end{multicols}
+\normalsize  % Return to normal font size
+
+\section*{4. Education}
+\begin{itemize}[noitemsep]
+    \item \textbf{Professional Master of Development Studies (Economics Department) (2018 -- 2019)} \newline Jagannath University, Bangladesh \quad \textit{GPA: 3.42/4.00}
+    \item \textbf{Master of Business Administration (Major in Human Resource Management) (2010 -- 2012)} \newline Atish Dipankar University of Science \& Technology, Bangladesh \quad \textit{GPA: 3.32/4.00}
+    \item \textbf{Bachelor of Arts (Honors) (2005 -- 2009)} \newline Pangsha Government College, National University, Bangladesh \quad \textit{2nd Class}
+\end{itemize}
+
+\section*{5. Soft Skills and Technical Tools}
+\begin{multicols}{2}
+\begin{itemize}[noitemsep]
+    \item OS: Windows, Linux, Mac
+    \item MS Office 19/21/365
+    \item Dashboard: Power BI, Tableau, Google Studio
+    \item Stats: SPSS, Stata, R, Python (basic)
+    \item Data Entry: CsPro, MS Access
+    \item GIS: ArcGIS, Q-GIS, Google Earth
+    \item Survey: SurveyCTO, ODK, KoBo, Zoho, SurveyMonkey
+    \item Editing: Video, Web, GitHub
+    \item Web Dev: Dreamweaver, WordPress, Joomla, HTML5, CSS3
+    \item Graphics: Photoshop, Illustrator, Canva, Figma, InDesign
+\end{itemize}
+\end{multicols}
+
+\section*{6. Journal Articles}
+\begin{itemize}[noitemsep]
+    \item Ishaq M., Islam Md. E., Rahman Dr. H., Rahman, Islam Md. Z., \textit{Covid-19 lockdowns and tobacco use among private university students in Dhaka, Bangladesh}, Global Journal for Research Analysis, Volume-11, Issue-02-February-2022 \quad \textit{DOI: 10.36106/gira}
+    \item Bazaluk, O., Kader, S.A., Zayed, Islam Md. Zahirul N.M., \textit{Determinants of Economic Growth in Developing Countries: A Special Case Regarding Turkey and Bangladesh}, J Knowl Econ (2024) \quad \textit{DOI: 10.1007/s13132-024-01989-8}
+\end{itemize}
+\section*{7. Preprint Articles}
+\begin{itemize}[noitemsep]
+    \item Islam, Md., Gomes, Reeju, \& Islam, Md. (2024). \textit{An examination of residents' mental health in particular Dhaka City neighborhoods in the context of civic health and environmental well-being}. Preprint PDF available. \textit{DOI: 10.21203/rs.3.rs-4333520/v1}.
+\end{itemize}
+
+\section*{8. Blogs}
+\begin{itemize}[noitemsep]
+    \item \textit{Studying the Ready Made Garments (RMG) sector in Bangladesh with ARCED Foundation} - SurveyCTO.
+\end{itemize}
+
+\section*{9. Other Relevant Training (Recent)}
+\begin{multicols}{2}
+\begin{itemize}[noitemsep]
+    \item Reproducible Research, WB Institute, Mar 2025
+    \item Effective Research Communication, BIGD, Mar 2025
+    \item Univariate to Multivariate Analysis, CIQ UK, Mar 2025
+    \item Regression Algorithm ML, CIQ UK, Mar 2025
+    \item Data Cleaning, CIQ UK, Mar 2025
+    \item Data Science, CIQ UK, Mar 2025
+    \item Descriptive Analytics, CIQ UK, Mar 2025
+    \item MS Power BI, CIQ UK, Mar 2025
+    \item Basics of NumPy, CIQ UK, Jan 2025
+    \item Human Subjects Research, CITI Program
+    \item Data Ethics \& AI, Univ. of Edinburgh, 2020
+    \item Research Ethics, Global Health Network, 2019
+    \item Communication \& Etiquette, Rushdina, 2019
+    \item Protecting Human Research Participants, NIH, 2018
+    \item PMP (35 hrs), Project Mgmt. Solutions BD, 2016
+\end{itemize}
+\end{multicols}
+
+
+
+\end{document}
